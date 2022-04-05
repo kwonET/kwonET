@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwonET
-- 👀 I’m interested in creative computing and frontend also other desing works!
+- 👀 I’m interested in creative computing and frontend also other design works!
 - 🌱 I’m currently learning processing, vue.js, javascript.
 
 <!---
